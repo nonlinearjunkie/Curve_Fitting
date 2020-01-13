@@ -1,0 +1,3 @@
+/home/suraj/Project/Curve_Fitting/Build/CMakeFiles/rebuild_cache.dir
+/home/suraj/Project/Curve_Fitting/Build/CMakeFiles/app.dir
+/home/suraj/Project/Curve_Fitting/Build/CMakeFiles/edit_cache.dir
